@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL68QdODIQv"
 #define BLYNK_TEMPLATE_NAME "Hareket"
-#define BLYNK_AUTH_TOKEN "YFmNvccNozIgGOQbrigVSxdHZ6EprfeL"
+#define BLYNK_AUTH_TOKEN "my token"
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -25,8 +25,8 @@ int led3 = D5;
 int led4 = D8;
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Note 10";
-char pass[] = "19811981.";
+char ssid[] = "wifi name";
+char pass[] = "wifi password";
 
 BlynkTimer timer;
 
