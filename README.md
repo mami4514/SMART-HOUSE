@@ -27,5 +27,8 @@ Aşağıda, sensörlerin NodeMCU'ya nasıl bağlandığını gösteren devre şe
 -Ledler: D3,D4,D5,58, pinleri
 ![Oluşturduğumuz devre şeması](https://github.com/iemacit/IOT-Smart-House/blob/main/Devre-Semasi.png)
 
+### PROJEMİZİN TANITIM VİDEOSU (YAKINDA GELİYOR)
+********** UPLOADİNG.....   *********
+
 
 
