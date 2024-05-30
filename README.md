@@ -47,8 +47,8 @@ Aşağıda, sensörlerin NodeMCU'ya nasıl bağlandığını gösteren devre şe
 1. Arduino IDE'yi indirin ve kurun.
 2. ESP8266 kartını Arduino IDE'ye ekleyin.
 3. Blynk kütüphanesini Arduino IDE'ye ekleyin.
-4. `main.ino` dosyasını indirin ve Arduino IDE'de açın.
-5. WiFi SSID ve şifrenizi, Blynk Auth Token ile birlikte `main.ino` dosyasına ekleyin.
+4. `projeSon.ino` dosyasını indirin ve Arduino IDE'de açın.
+5. WiFi SSID ve şifrenizi, Blynk Auth Token ile birlikte `projeSon.ino` dosyasına ekleyin.
 6. ESP8266 kartını bilgisayarınıza bağlayın ve kodu yükleyin.
 
 
