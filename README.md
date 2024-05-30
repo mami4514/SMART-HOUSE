@@ -1,6 +1,6 @@
 # SMART-HOUSE
 
-###PROJEYİ HAZRIRLAYANLAR:
+### PROJEYİ HAZRIRLAYANLAR:
 İBRAHİM ETHEM MACİT 213405050,UTKU YURT 213405075,MUHAMMED ABDÜLBAKİ ÇEKEN 213405023
 
 ### PROJENİN AMACI  
@@ -10,9 +10,9 @@ Projemizin amacı, evdeki güvenlik ve kontrol sistemlerini bir araya getirerek,
 1 adetESP8266 NodeMCU, 1 adet Deprem Sensörü, 1 adet Gaz Sensörü, 1 adet Yağmur Sensörü, 1 adetUltrasonik Mesafe Sensörü, çokça Jumper kablo, 1 adet buzzer,5 adet led
 
 ### PROJEDE KULLANILAN YAZILIM BİLEŞENLERİ
-# Blynk uygulaması:Sensörlerden Gelen verileri kullanıcıya bildirim olarak iletmek için kullanıldı
-# Arduino Ide:Projemizde, sensörlerin verilerini işlemek ve Blynk uygulamasına iletmek için gerekli kodları yazmak için kullanılmıştır.
-# Fritzing Uygulaması:Devre Şemamızı çizmek için kullanıldı.
+Blynk uygulaması:Sensörlerden Gelen verileri kullanıcıya bildirim olarak iletmek için kullanıldı
+ Arduino Ide:Projemizde, sensörlerin verilerini işlemek ve Blynk uygulamasına iletmek için gerekli kodları yazmak için kullanılmıştır.
+ Fritzing Uygulaması:Devre Şemamızı çizmek için kullanıldı.
 
 
 ### PROJEMİZİN DEVRE ŞEMASI VE BAĞLANTILARI
