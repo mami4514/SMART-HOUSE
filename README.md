@@ -22,7 +22,7 @@ Aşağıda, sensörlerin NodeMCU'ya nasıl bağlandığını gösteren devre şe
 -Yağmur  D2  pini
 -Ultrasonik Mesafe Sensörü:  Trig pini:D7  Echo pini:D6   
 -Ledler: D3,D4,D5,58, pinleri
-![Oluşturduğumuz devre şeması](https://github.com/iemacit/IOT-Smart-House/blob/main/devre-semasi.png)
+![Oluşturduğumuz devre şeması](https://github.com/iemacit/IOT-Smart-House/blob/main/Devre-Semasi.png)
 
 
 
