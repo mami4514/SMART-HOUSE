@@ -59,6 +59,11 @@ Aşağıda, sensörlerin NodeMCU'ya nasıl bağlandığını gösteren devre şe
 3. Blynk uygulamasını telefonunuza indirin ve projenizi oluşturun.
 4. Blynk uygulamasındaki widget'ları yapılandırarak sensörlerinizi ve LED'lerinizi kontrol edin.
 
+## PROJEMİZİN UZAKTAN KONTROL İÇİN KULLANICI ARAYÜZÜ(BLYNK UYGULAMASI ÜZERİNDEN)
+![KULLANICI ARAYÜZÜ](https://github.com/mami4514/SMART-HOUSE/blob/main/IOT-SMART%20HOUSE%20UI.png)
+
+
+
 ### PROJEMİZİN TANITIM VİDEOSU (YAKINDA GELİYOR)
 ********** UPLOADİNG.....   *********
 
